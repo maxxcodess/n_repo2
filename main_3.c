@@ -19,4 +19,6 @@ int main()
 	}
 
 	printf("\nString After Reverse: %s\n", rev);
+	
+	return 0;
 }
